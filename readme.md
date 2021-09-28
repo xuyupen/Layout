@@ -54,7 +54,7 @@
 
 - 实现效果：
 
-  ![](C:\Users\DELL\Pictures\屏幕截图 2021-09-28 121338.png)
+  ![](C:\AndroidStudioProjects\test2\屏幕截图 2021-09-28 121338.png)
 
   
 
@@ -135,7 +135,7 @@
 
 -    实现效果:
 
-  ![屏幕截图 2021-09-28 123348](C:\Users\DELL\Pictures\屏幕截图 2021-09-28 123348.png)
+  ![](C:\AndroidStudioProjects\test2\屏幕截图 2021-09-28 123348.png)
 
 ##    三，表格布局    
 
@@ -177,7 +177,5 @@
 
 - 实现效果：
 
-  
-
-![屏幕截图 2021-09-28 123313](C:\Users\DELL\Pictures\屏幕截图 2021-09-28 123313.png)
+  ![屏幕截图 2021-09-28 123313](C:\AndroidStudioProjects\test2\屏幕截图 2021-09-28 123313.png)
 
