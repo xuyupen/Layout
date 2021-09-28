@@ -133,7 +133,7 @@
 
 -    实现效果:
 
-  ![](C:\AndroidStudioProjects\test2\屏幕截图 2021-09-28 123348.png)
+  ![](https://github.com/xuyupen/test2/blob/588211ba38b1066428836284431ef49ae7f78b3f/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202021-09-28%20123348.png)
 
 ##    三，表格布局    
 
@@ -175,5 +175,5 @@
 
 - 实现效果：
 
-  ![屏幕截图 2021-09-28 123313](C:\AndroidStudioProjects\test2\屏幕截图 2021-09-28 123313.png)
+  ![)
 
