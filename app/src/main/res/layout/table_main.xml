@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+ <TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:stretchColumns="1">
+     <TableRow>
+
+         <TextView
+             android:layout_width="208dp"
+             android:layout_height="30dp"
+             android:text="@string/open"
+             android:textSize="20sp"
+             />
+         <TextView
+             android:layout_height="30dp"
+             android:gravity="right"
+             android:text="@string/CtrlO"
+             android:textSize="20sp"
+           />
+     </TableRow>
+    <TableRow>
+
+        <TextView
+            android:layout_width="208dp"
+            android:layout_height="30dp"
+            android:text="@string/save"
+            android:textSize="20sp"
+            />
+        <TextView
+            android:layout_height="30dp"
+            android:gravity="right"
+            android:text="@string/CtrlS"
+            android:textSize="20sp"
+            />
+
+
+    </TableRow>
+    <TableRow>
+
+        <TextView
+            android:layout_width="208dp"
+            android:layout_height="30dp"
+            android:text="@string/save."
+            android:textSize="20sp"
+            />
+        <TextView
+            android:layout_height="30dp"
+            android:gravity="right"
+            android:text="@string/CtrlShiftS"
+            android:textSize="20sp"
+            />
+
+
+    </TableRow>
+
+    <TableRow android:background="#EC407A">
+        <TextView android:layout_height="3dp" />
+    </TableRow>
+    <TableRow>
+
+        <TextView
+            android:layout_width="208dp"
+            android:layout_height="30dp"
+            android:text="@string/ximport"
+            android:textSize="20sp"
+            />
+    </TableRow>
+    <TableRow>
+
+        <TextView
+            android:layout_width="208dp"
+            android:layout_height="30dp"
+            android:text="@string/xexport"
+            android:textSize="20sp"
+            />
+        <TextView
+            android:layout_height="30dp"
+            android:gravity="right"
+            android:text="@string/CtrlE"
+            android:textSize="20sp"
+            />
+
+
+
+
+    </TableRow>
+    <TableRow android:background="#EC407A">
+    <TextView android:layout_height="3dp" />
+    </TableRow>
+    <TableRow>
+
+        <TextView
+            android:layout_width="208dp"
+            android:layout_height="30dp"
+            android:text="@string/Quit"
+            android:textSize="20sp"
+            />
+    </TableRow>
+</TableLayout>

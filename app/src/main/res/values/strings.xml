@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">test2</string>
+    <string name="OneOne">One,One</string>
+    <string name="OneTwo">One,Two</string>
+    <string name="OneThree">One,Three</string>
+    <string name="OneFour">One,Four</string>
+    <string name="TwoOne">Two,One</string>
+    <string name="TwoTwo">Two,Two</string>
+    <string name="TwoThree">Two,Three</string>
+    <string name="TwoFour">Two,Four</string>
+    <string name="ThreeOne">Three,One</string>
+    <string name="ThreeTwo">Three,Two</string>
+    <string name="ThreeThree">Three,Three</string>
+    <string name="ThreeFour">Three,Four</string>
+    <string name="FourOne">Four,One</string>
+    <string name="FourTwo">Four,Two</string>
+    <string name="FourThree">Four,Three</string>
+    <string name="FourFour">Four,Four</string>
+
+
+    <string name="input">input</string>
+    <string name="output">0.0</string>
+    <string name="seven">7</string>
+    <string name="eight">8</string>
+    <string name="nine">9</string>
+    <string name="chu">÷</string>
+    <string name="four">4</string>
+    <string name="five">5</string>
+    <string name="six">6</string>
+    <string name="cheng">×</string>
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="three">3</string>
+    <string name="jia">+</string>
+    <string name="dian">.</string>
+    <string name="zero">0</string>
+    <string name="deng">=</string>
+    <string name="jian">-</string>
+
+    <string name="open">Open...</string>
+    <string name="CtrlO">Ctrl-O</string>
+    <string name="save">Save</string>
+    <string name="CtrlS">Ctrl-S</string>
+    <string name="save.">Save As...</string>
+    <string name="CtrlShiftS">Ctrl-Shift-S</string>
+    <string name="ximport">X  Import...</string>
+    <string name="xexport">X  Export</string>
+    <string name="CtrlE">Ctrl-E</string>
+    <string name="Quit">Quit</string>
+
+</resources>
